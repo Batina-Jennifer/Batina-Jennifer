@@ -1,16 +1,19 @@
-## Hi there 👋
+Hey there 👋
+I'm Jenny, a Computer Science Engineer with a strong foundation in cybersecurity and 18 months of hands-on experience as a SOC Analyst, passionate about building resilient and automated security solutions. 
+<h1>About Me</h1>
+🎓 Computer Science Engineer with a Distinction in my Bachelor’s degree
+💖 GEST (Girl Education Scholarship Test) awardee during high school (11th–12th)
+📜 Certified with a Diploma in Cyber Laws, strengthening my security foundation
+🏢 Ex-UST employee, where I worked as a SOC Analyst
+🛡️ Bringing 18 months of hands-on experience in Security Operations & threat monitoring
+🚀 Currently pursuing growth as a SIEM / Security Engineer, building projects that automate and scale security operations in the IT industry.
 
-<!--
-**Batina-Jennifer/Batina-Jennifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hobbies & Fitness Goals
+🏅 Passionate long-distance runner with a love for endurance challenges
+✅ Successfully completed the Berlin 5K – 2025
+🎯 Training towards my next big milestone: Valencia Half Marathon (in progress)
 
-Here are some ideas to get you started:
+Languages & Skills
+🗣️ Human Languages: English, Hindi, German, Telugu, Malayalam
+💻 Programming & Tech: Python, SPL, HTML, JavaScript, Terraform (IaC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
