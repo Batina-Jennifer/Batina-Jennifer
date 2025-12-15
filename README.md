@@ -1,4 +1,5 @@
-Hey there 👋
+<h3>Hey there👋</h3>
+
 I'm Jenny, a Computer Science Engineer with a strong foundation in cybersecurity and 18 months of hands-on experience as a SOC Analyst, passionate about building resilient and automated security solutions. 
 <h3>About Me</h3>
 🎓 Computer Science Engineer with a Distinction in my Bachelor’s degree
