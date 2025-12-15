@@ -17,5 +17,5 @@ I'm Jenny, a Computer Science Engineer with a strong foundation in cybersecurity
 
 <h3>Languages & Skills</h3>
 🗣️ Human Languages: English, Hindi, German, Telugu, Malayalam<br />
-💻 Programming & Tech: Python, SPL, HTML, JavaScript, Terraform (IaC)<br />
+💻 Programming & Tech: Python, Gcloud, SPL, HTML, JavaScript, Terraform (IaC)<br />
 
