@@ -13,6 +13,7 @@ I'm Jenny, a Computer Science Engineer with a strong foundation in cybersecurity
 🏅 Passionate long-distance runner with a love for endurance challenges<br />
 ✅ Successfully completed the Berlin 5K – 2025<br />
 🎯 Training towards my next big milestone: Valencia Half Marathon (in progress)<br />
+🎌 Love Anime - Naruto and Demon Slayer are my absolute favorites. <br />
 
 <h3>Languages & Skills</h3>
 🗣️ Human Languages: English, Hindi, German, Telugu, Malayalam<br />
