@@ -1,20 +1,20 @@
-<h3>Hey there👋</h3>
+Hey there👋<br />
 
 I'm Jenny, a Computer Science Engineer with a strong foundation in cybersecurity and 18 months of hands-on experience as a SOC Analyst, passionate about building resilient and automated security solutions. 
 <h3>About Me</h3>
-🎓 Computer Science Engineer with a Distinction in my Bachelor’s degree
-💖 GEST (Girl Education Scholarship Test) awardee during high school (11th–12th)
-📜 Certified with a Diploma in Cyber Laws, strengthening my security foundation
-🏢 Ex-UST employee, where I worked as a SOC Analyst
-🛡️ Bringing 18 months of hands-on experience in Security Operations & threat monitoring
-🚀 Currently pursuing growth as a SIEM / Security Engineer, building projects that automate and scale security operations in the IT industry.
+🎓 Computer Science Engineer with a Distinction in my Bachelor’s degree<br />
+💖 GEST (Girl Education Scholarship Test) awardee during high school (11th–12th)<br />
+📜 Certified with a Diploma in Cyber Laws, strengthening my security foundation<br />
+🏢 Ex-UST employee, where I worked as a SOC Analyst<br />
+🛡️ Bringing 18 months of hands-on experience in Security Operations & threat monitoring<br />
+🚀 Currently pursuing growth as a SIEM / Security Engineer, building projects that automate and scale security operations in the IT industry.<br />
 
 <h3>Hobbies & Fitness Goals</h3>
-🏅 Passionate long-distance runner with a love for endurance challenges
-✅ Successfully completed the Berlin 5K – 2025
-🎯 Training towards my next big milestone: Valencia Half Marathon (in progress)
+🏅 Passionate long-distance runner with a love for endurance challenges<br />
+✅ Successfully completed the Berlin 5K – 2025<br />
+🎯 Training towards my next big milestone: Valencia Half Marathon (in progress)<br />
 
 <h3>Languages & Skills</h3>
-🗣️ Human Languages: English, Hindi, German, Telugu, Malayalam
-💻 Programming & Tech: Python, SPL, HTML, JavaScript, Terraform (IaC)
+🗣️ Human Languages: English, Hindi, German, Telugu, Malayalam<br />
+💻 Programming & Tech: Python, SPL, HTML, JavaScript, Terraform (IaC)<br />
 
