@@ -9,7 +9,7 @@ I'm Jenny, a Computer Science Engineer with a strong foundation in cybersecurity
 🛡️ Bringing 18 months of hands-on experience in Security Operations & threat monitoring<br />
 🚀 Currently pursuing growth as a SIEM / Security Engineer, building projects that automate and scale security operations in the IT industry.<br />
 
-<h3>Hobbies & Fitness Goals</h3>
+<h3>Hobbies & Goals</h3>
 🏅 Passionate long-distance runner with a love for endurance challenges<br />
 ✅ Successfully completed the Berlin 5K – 2025<br />
 🎯 Training towards my next big milestone: Valencia Half Marathon (in progress)<br />
