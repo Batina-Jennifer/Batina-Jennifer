@@ -9,12 +9,10 @@ I'm Jenny, a Computer Science Engineer with a strong foundation in cybersecurity
 🛡️ Bringing 18 months of hands-on experience in Security Operations & threat monitoring<br />
 🚀 Currently pursuing growth as a SIEM / Security Engineer, building projects that automate and scale security operations in the IT industry.<br />
 
-<h3>Hobbies & Goals</h3>
+<h3>Hobbies</h3>
 🏅 Passionate long-distance runner with a love for endurance challenges.<br />
-🚀 CompTIA Security+ exam to be cleared by the end of April 2026.<br />
 🎌 Love Anime - Naruto, One Piece, and Demon Slayer are my absolute favorites. <br />
 
 <h3>Languages & Skills</h3>
 🗣️ Human Languages: English, Hindi, German, Telugu, Malayalam<br />
 💻 Programming & Tech: Python, Powershell, Linux, SQL, Gcloud, Splunk, HTML, JavaScript, Terraform (IaC)<br />
-
